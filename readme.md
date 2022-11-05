@@ -1,5 +1,5 @@
 ﻿```
--- Instalar .NET (dotnet.microsoft.com - versão 6)
+-- Instalar .NET (https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 -- Executar o comando abaixo na raiz
 dotnet restore
 dotnet run
